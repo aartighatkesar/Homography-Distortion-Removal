@@ -34,10 +34,10 @@ _After Projective Distortion removal_
 #### Two Step Method
 _ Remove Projective distortion by mapping imaged Line at Infinity to expected [0, 0, 1].T. After this step, we are left with Affine distortion which can be estimated upto a similarity._
 <br/>
-<img src="https://github.com/aartighatkesar/Homography-Distortion-Removal/blob/master/Results_Two_Step_method/Results_building/two_step_buildingprojective_removalcv_2.jpg" width="1555" height="1166" />  
+<img src="https://github.com/aartighatkesar/Homography-Distortion-Removal/blob/master/Results_Two_Step_method/Results_building/two_step_buildingprojective_removalcv_2.jpg" width="447" height="382" />  
 <br/>
 _After Final Metric Rectification. Notice that Parallel lines are now intersecting at Line at Infinity [0, 0 ,1].T_
-<img src="https://github.com/aartighatkesar/Homography-Distortion-Removal/blob/master/Results_Two_Step_method/Results_building/two_step_buildingcv_2.jpg" width="1555" height="1166" />  
+<img src="https://github.com/aartighatkesar/Homography-Distortion-Removal/blob/master/Results_Two_Step_method/Results_building/two_step_buildingcv_2.jpg" width="1572" height="975" />  
 <br/>
  
  
